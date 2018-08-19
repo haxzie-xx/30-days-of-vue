@@ -173,6 +173,12 @@ body {
         height: auto;
         margin: 0px;
     }
+    .todo-header {
+        padding: 20px 10px 20px 10px;
+    }
+    .todo-tem {
+        padding: 20px 10px 20px 10px;
+    }
     
   }
   
@@ -187,6 +193,12 @@ body {
         width: 100%;
         height: auto;
         margin: 0px;
+    }
+    .todo-header {
+        padding: 10px;
+    }
+    .todo-tem {
+        padding: 20px 10px 20px 10px;
     }
     
   }
