@@ -10,6 +10,15 @@ Create a simple Todo-List app with minimal features!
 - understand emitters and communication between app and components
 
 ## Day 2
+### [A Beautiful Calculator :iphone:](https://haxzie.github.io/30-days-of-vue/day2-calculator/dist)
+Create a beautiful calculator using Vue.js  
+- Learn to install [vue cli](https://cli.vuejs.org/)
+- Learn to create a simple vue project using vue cli
+- Learn to modify a simple vue app
+- Understand how vue components separated using `.vue` extension
+- Understand the vue component structure: template, script and style
+
+Turorial link for [Calculator](https://www.youtube.com/watch?v=m1_ih43p24s)
 ## Day 3
 ## Day 4
 ## Day 5
