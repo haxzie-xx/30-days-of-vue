@@ -2,7 +2,8 @@
 :star2: A 30 day learning challenge for VueJS by building simple yet cool projects :muscle:
 ## Day 1
 ### [A Simple Todo App :memo:](https://haxzie.github.io/30-days-of-vue/day1-todo-list-app)
-![TodoTodoTodoo](https://haxzie.github.io/30-days-of-vue/images/day1.png)
+![TodoTodoTodoo](https://haxzie.github.io/30-days-of-vue/images/day1.png)  
+
 Create a simple Todo-List app with minimal features!  
 - Learn to set up a simple vue project [without vue cli]
 - Understand the Vue app instance
@@ -11,7 +12,8 @@ Create a simple Todo-List app with minimal features!
 - understand emitters and communication between app and components
 ## Day 2
 ### [A Beautiful Calculator :iphone:](https://github.com/haxzie/30-days-of-vue/tree/master/Day2-Calculator)
-![Calicoo](https://haxzie.github.io/30-days-of-vue/images/day2.png)
+![Calicoo](https://haxzie.github.io/30-days-of-vue/images/day2.png)  
+
 Create a beautiful calculator using Vue.js  
 - Learn to install [vue cli](https://cli.vuejs.org/)
 - Learn to create a simple vue project using vue cli
