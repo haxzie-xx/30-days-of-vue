@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <p class="time">
-      <input type="text" v-model="hour"/>:<input type="text" v-model="minute"/>:<input type="text" v-model="second"/>
+      {{ hour | twoDigits }}:{{ minute | twoDigits }}:{{ second | twoDigits }}
     </p>
   </div>
 </template>
@@ -16,7 +16,7 @@ export default {
     return {
       cTime: "00:00:00",
       hour: 0,
-      minute: 1,
+      minute: 12,
       second: 5,
       interval: null,
     }
