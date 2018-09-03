@@ -23,6 +23,12 @@ Create a beautiful calculator using Vue.js
 
 Turorial link for [Calculator](https://www.youtube.com/watch?v=m1_ih43p24s)
 ## Day 3
+### [CountDown Timer :time:](https://github.com/haxzie/30-days-of-vue/tree/master/Day3-Hack-time)
+![HackTime](https://screenshotscdn.firefoxusercontent.com/images/edab1f59-4a39-436a-8afd-6c1d6aa0603e.png)
+  
+Create a simple countdown timer using Vue.js
+- Understand the usage of watch, filters, and intervals
+
 ## Day 4
 ## Day 5
 ## Day 6
