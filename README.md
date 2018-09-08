@@ -30,7 +30,7 @@ Create a simple countdown timer using Vue.js
 - Understand the usage of watch, filters, and intervals
 
 ## Day 4
-### [Simple Markdown Previewer]()
+### [Simple Markdown Previewer]((https://github.com/haxzie/30-days-of-vue/tree/master/Day4-Markdown-Converter)
 ![Markie](https://haxzie.github.io/30-days-of-vue/images/markie.png)
 Create a Markdown Previewer using Vue.js :tada:
 - Understand directives in Vue.js
