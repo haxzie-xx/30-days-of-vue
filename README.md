@@ -38,7 +38,8 @@ Create a Markdown Previewer using Vue.js :tada:
 Tutorial [Link](https://www.youtube.com/watch?v=GkvMEYvXMyk)
 ## Day 5
 ### [LyricFinder](https://github.com/haxzie/30-days-of-vue/tree/master/Day5-Lyric-Finder)
-![LyricFinder](https://haxzie.github.io/30-days-of-vue/images/day5.png)
+![LyricFinder](https://haxzie.github.io/30-days-of-vue/images/day5.png)  
+
 Create a lyrics search app using Vue.js and the Musixmatch API
 ## Day 6
 .
