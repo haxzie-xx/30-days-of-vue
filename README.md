@@ -52,7 +52,12 @@ Learn Vuex and the *state management pattern* by building a simple chat applicat
 - Explore how your components can react to change sin the `Vuex Store`
 
 ## Day 7
-.
+### [PWA-medium-rss-feed](https://github.com/haxzie/30-days-of-vue/tree/master/Day7-pwa-medium-rss-feed)
+![PWA-medium-rss-feed](https://haxzie.github.io/30-days-of-vue/images/day7.png)
+Learn how to use `Vue`, `Vuex` and `Vue-router` and add `Progressive Web Apps(pwa)` features to the vuejs application.
+
+# Day 8
+. 
 
 .
 
