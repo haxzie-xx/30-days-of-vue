@@ -40,12 +40,22 @@ Tutorial [Link](https://www.youtube.com/watch?v=GkvMEYvXMyk)
 ### [LyricFinder](https://github.com/haxzie/30-days-of-vue/tree/master/Day5-Lyric-Finder)
 ![LyricFinder](https://haxzie.github.io/30-days-of-vue/images/day5.png)  
 
-Create a lyrics search app using Vue.js and the Musixmatch API
+
 ## Day 6
+### [Vuex Chat](https://github.com/haxzie/30-days-of-vue/tree/master/Day6-Vuex-Chat)
+![Vuex Chat](https://haxzie.github.io/30-days-of-vue/images/day6.png)
+Learn Vuex and the *state management pattern* by building a simple chat application.
+
+- Learn a simple implementation of `Vuex`
+- Share a message history among any number of chat clients.
+- Get a taste of `mapGetters` and `mapActions` to expose functionality in your components.
+- Explore how your components can react to change sin the `Vuex Store`
+
+## Day 7
 .
+
 .
-.
-.
+
 .
 
 ## Day 30
