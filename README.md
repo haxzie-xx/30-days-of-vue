@@ -57,8 +57,10 @@ Learn Vuex and the *state management pattern* by building a simple chat applicat
 
 Learn how to use `Vue`, `Vuex` and `Vue-router` and add `Progressive Web Apps(pwa)` features to the vuejs application.
 
-# Day 8
-. 
+## Day 8
+### [Todo with Vuex](https://github.com/haxzie/30-days-of-vue/tree/master/Day8-Todo-List-Vuex-Vue-router)
+![Todo with Vuex](https://haxzie.github.io/30-days-of-vue/images/day8.png)  
+.
 
 .
 
