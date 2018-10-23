@@ -105,7 +105,7 @@ Now, for a test let's see what happens when we look for ***Sloppy Joe*** recipes
 * Put *sloppy joe* into the search field.
 * Click *Search*
 * The result will likely be something like this:
-[img3](https://github.com/markrmessmore/Day8-Recipe-Search-App-Part1/blob/master/images/3.jpg?raw=true)
+![img3](https://github.com/markrmessmore/Day8-Recipe-Search-App-Part1/blob/master/images/3.jpg?raw=true)
 
 ### In Conclusion:
 I hope you see there are ***LOTS*** of extra things you could do with this: personal recipe listing, transitions, code it to make supper for you, etc. But was for this to be a primer to some of the things that can be done with a basic set-up of ***VueJS***.
