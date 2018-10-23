@@ -58,7 +58,7 @@ Learn Vuex and the *state management pattern* by building a simple chat applicat
 Learn how to use `Vue`, `Vuex` and `Vue-router` and add `Progressive Web Apps(pwa)` features to the vuejs application.
 
 # Day 8
-### [Recipe Search App - Part 1](https://github.com/haxzie/30-days-of-vue/tree/master/Day8-Recipe-Search-App-Part1)
+### [Recipe Search App - Part 1](https://github.com/haxzie/30-days-of-vue/tree/master/Day8-RecipeSearchApp-Part1)
 ![RecipeApp](https://haxzie.github.io/30-days-of-vue/images/day8-9.jpg)
 
 This app walks you through two days of various Vue project concepts. Day 1 includes:
@@ -66,7 +66,7 @@ This app walks you through two days of various Vue project concepts. Day 1 inclu
 - List-rendering with ***v-for***
 
 # Day 9
-### [Recipe Search App - Part 2](https://github.com/haxzie/30-days-of-vue/tree/master/Day8-Recipe-Search-App-Part1)
+### [Recipe Search App - Part 2](https://github.com/haxzie/30-days-of-vue/tree/master/Day8-RecipeSearchApp-Part2)
 ![RecipeApp](https://haxzie.github.io/30-days-of-vue/images/day8-9.jpg)
 
 Building on ***Day 8*** this tutorial includes:
