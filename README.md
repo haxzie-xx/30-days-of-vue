@@ -66,7 +66,7 @@ This app walks you through two days of various Vue project concepts. Day 1 inclu
 - List-rendering with ***v-for***
 
 # Day 9
-### [Recipe Search App - Part 2](https://github.com/haxzie/30-days-of-vue/tree/master/Day8-RecipeSearchApp-Part2)
+### [Recipe Search App - Part 2](https://github.com/haxzie/30-days-of-vue/tree/master/Day9-RecipeSearchApp-Part2)
 ![RecipeApp](https://haxzie.github.io/30-days-of-vue/images/day8-9.jpg)
 
 Building on ***Day 8*** this tutorial includes:
